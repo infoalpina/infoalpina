@@ -36,7 +36,7 @@ Para saber mais sobre a Alpina Equipamentos Industriais, entre em contato conosc
 
 Siga-nos nas redes sociais para ficar por dentro das últimas novidades:
 
-- [Instagram]([https://www.instagram.com/grupo.alpina/])
+- [Instagram](https://www.instagram.com/grupo.alpina/)
 - [LinkedIn](https://www.linkedin.com/company/40993101/admin/feed/posts/?feedType=following)
 
 Junte-se a nós na jornada da inovação em resfriamento industrial!
