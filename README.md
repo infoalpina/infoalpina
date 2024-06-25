@@ -22,9 +22,6 @@ Aqui no GitHub, compartilhamos alguns de nossos projetos e desenvolvimentos mais
   
 - **Integração IOT:** Verifique as nossas técnologias com IOT integradas em nossas torres de resfriamento.
 
-## Contribuições
-
-Valorizamos contribuições da comunidade para nossos projetos. Se você está interessado em colaborar ou tem sugestões, sinta-se à vontade para abrir issues ou pull requests em nossos repositórios.
 
 ## Contate-nos
 
